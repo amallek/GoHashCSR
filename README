@@ -1,0 +1,4 @@
+$ go run . < your.csr
+$ ./GoHashCSR < your.csr
+$ cat your.csr | ./GoHashCSR
+
